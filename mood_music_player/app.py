@@ -261,6 +261,6 @@ streamlit run app.py
 # ── Footer ──────────────────────────────────────────────────────────────────────
 st.markdown("""
 <div class="footer">
-    Built with ❤️ using DeepFace + Spotify API + Streamlit &nbsp;|&nbsp; BCA Final Year Project
+    Built with ❤️ using DeepFace + Spotify API + Streamlit &nbsp;|&nbsp
 </div>
 """, unsafe_allow_html=True)
