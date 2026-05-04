@@ -7,7 +7,7 @@ from spotipy.oauth2 import SpotifyOAuth
 import base64
 import time
 import os
-from PIL import Image
+from PIL import image
 import io
 
 # ─── Page Config ───────────────────────────────────────────────────────────────
